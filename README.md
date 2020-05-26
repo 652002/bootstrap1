@@ -161,7 +161,8 @@ the cart. This is how the cart page should look like:
 1. Create an after login fixed header navigation bar.
 
 2. Create a table with 4 columns and 3 rows. The table has “Item Number, Item Name,
-Price” as table headers. Add a link to the success.html page inside the 3rd row, 4th
+Price” as table headers. 
+Add a link to the success.html page inside the 3rd row, 4th
 column and assign classes “btn btn-primary” to the <a> tag.
 Item Number Item Name Price
   
